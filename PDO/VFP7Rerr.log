@@ -1,0 +1,18 @@
+
+
+Серьезная ошибка: Код исключения=C000008C @ 12.09.2025 13:22:20. Файл журнала ошибок: C:\PDO\VFP7Rerr.log
+	Вызов из -  f_sostiz line 312  {C:\PDO\f_sostiz.prg f_sostiz.fxp}
+	Вызов из -  ON...  line 0  { }
+	Вызов из -  main_nsi line 101  {C:\PDO\main_nsi.prg c:\pdo\ko_nsi.exe}
+
+
+Серьезная ошибка: Код исключения=C0000005 @ 06.02.2026 10:57:43. Файл журнала ошибок: C:\PDO\VFP7Rerr.log
+	Вызов из -  f_prim_det line 171  {C:\PDO\f_prim_det.prg f_prim_det.fxp}
+	Вызов из -  ON...  line 0  { }
+	Вызов из -  main_nsi line 101  {C:\PDO\main_nsi.prg c:\pdo\ko_nsi.exe}
+
+
+Серьезная ошибка: Код исключения=C0000005 @ 06.02.2026 10:57:43. Файл журнала ошибок: C:\PDO\VFP7Rerr.log
+	Вызов из -  f_prim_det line 171  {C:\PDO\f_prim_det.prg f_prim_det.fxp}
+	Вызов из -  ON...  line 0  { }
+	Вызов из -  main_nsi line 101  {C:\PDO\main_nsi.prg c:\pdo\ko_nsi.exe}

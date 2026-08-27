@@ -1,0 +1,8 @@
+codepage=auto
+exclusive=on
+COLLATE = MACHINE
+SYSFORMATS = ON
+FDOW = 2
+FWEEK = 2
+CPDIALOG = ON
+remcommand = do HOME() +"vfpstart"
